@@ -19,7 +19,7 @@ binaries from the hardware description file and generating Zynq boot image.
 
 ## Repository structure
 
-The diagram below presents the simplified structure of this repository along with its submodules.
+The diagram below presents the simplified structure of this repository along with its submodules and subdirectory.
 ```
 .
 ├── alkali-csd-hw (submodule)
